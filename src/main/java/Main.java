@@ -8,6 +8,7 @@ public class Main {
         tracker.addTask(" Выпить кофе ");
         tracker.addTask(" Включить комп ");
         tracker.addTask(" Проверить почту ");
+        tracker.addTask(" Проверить почту 222222");
 
         //вывод всех задач
         tracker.printAllTask();
